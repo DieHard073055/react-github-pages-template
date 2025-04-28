@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/DieHard073055/react-github-pages-template/static/css/main.43d40d91.css",
-    "main.js": "/DieHard073055/react-github-pages-template/static/js/main.aa04d89a.js",
-    "static/js/453.f2342be2.chunk.js": "/DieHard073055/react-github-pages-template/static/js/453.f2342be2.chunk.js",
-    "index.html": "/DieHard073055/react-github-pages-template/index.html",
-    "main.43d40d91.css.map": "/DieHard073055/react-github-pages-template/static/css/main.43d40d91.css.map",
-    "main.aa04d89a.js.map": "/DieHard073055/react-github-pages-template/static/js/main.aa04d89a.js.map",
-    "453.f2342be2.chunk.js.map": "/DieHard073055/react-github-pages-template/static/js/453.f2342be2.chunk.js.map"
+    "main.css": "/react-github-pages-template/static/css/main.43d40d91.css",
+    "main.js": "/react-github-pages-template/static/js/main.d67b6eed.js",
+    "static/js/453.f2342be2.chunk.js": "/react-github-pages-template/static/js/453.f2342be2.chunk.js",
+    "index.html": "/react-github-pages-template/index.html",
+    "main.43d40d91.css.map": "/react-github-pages-template/static/css/main.43d40d91.css.map",
+    "main.d67b6eed.js.map": "/react-github-pages-template/static/js/main.d67b6eed.js.map",
+    "453.f2342be2.chunk.js.map": "/react-github-pages-template/static/js/453.f2342be2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.43d40d91.css",
-    "static/js/main.aa04d89a.js"
+    "static/js/main.d67b6eed.js"
   ]
 }
